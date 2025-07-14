@@ -16,8 +16,11 @@ Another skill I believe I possess is good teamwork. I am able to understand what
 
 I think I have good communication skills, which I use often in Maths lessons to help people understand my method to solving a problem. Often I offer to help people if they are stuck, providing advice and different approaches to problems.
 
-
-
+Links to other repositories:
+  - Kashyyk hotel project: https://github.com/BHASVIC-JamesGill/KashyykHotel
+  - Animalopoly project: https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-JamesGill
+  - Homework: https://github.com/BHASVIC-CompSci/homework-BHASVIC-JamesGill
+  
 <!--
 **BHASVIC-JamesGill/BHASVIC-JamesGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
