@@ -8,7 +8,7 @@ Inside my Computer Science A-level, I am currently working on a racing game as m
 
 I am looking to do a degree in Mathematics to help me towards a job in the quaternary sector.
 
-I have completed 10 GCSES, including 9s in Maths and Further Maths.
+I have completed 10 GCSEs, including 9s in Maths and Further Maths.
 
 I believe I have good problem solving skills which I use in all my subjects, particularly computer science. I am proficient at breaking down a problem into smaller manageable steps, then completing those to solve the overall problem.
 
